@@ -1,0 +1,30 @@
+{
+  "name": "type",
+  "version": "1.0.0",
+  "description": "Typography css module",
+  "main": "./src/type.scss",
+  "repository": {
+    "type": "git",
+    "url": "git+https://jchck@github.com/jchck/jchck-type.git"
+  },
+  "keywords": [
+    "css",
+    "oocss",
+    "jchck"
+  ],
+  "author": "jchck <hey@justinchick.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jchck/jchck-type/issues"
+  },
+  "homepage": "https://github.com/jchck/jchck-type",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-minify-css": "^0.4.6",
+    "gulp-rename": "^1.2.0",
+    "gulp-sass": "^2.0.0",
+    "gulp-size": "^1.2.1",
+    "readable-stream": "^1.0.33",
+    "through2": "^0.6.3"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "jchck-type",
+  "version": "1.0.0",
+  "homepage": "https://github.com/jchck/jchck-type",
+  "authors": [
+    "jchck <hey@justinchick.com>"
+  ],
+  "description": "Typography css module",
+  "main": "./src/type.scss",
+  "keywords": [
+    "css",
+    "oocss"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

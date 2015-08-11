@@ -20,6 +20,9 @@ $font-size-h6: .75rem !default;
 
 $font-family-monospace: "Source Code Pro", Consolas, monospace !default;
 
+$list-margin-top: 0 !default;
+$list-margin-bottom: .75rem !default;
+
 
 body{
 	font-family: $font-family-base;
@@ -32,4 +35,5 @@ pre, code, samp{
 	font-family: $font-family-monospace;
 }
 
-@import "headings.scss";
+@import "headings";
+@import "list";

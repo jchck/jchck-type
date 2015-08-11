@@ -1,0 +1,8 @@
+ol, ul{
+	margin-top: $list-margin-top;
+	margin-bottom: $list-margin-bottom;
+	ol, ul{
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+}

@@ -1,6 +1,8 @@
-body { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.5; }
+/* System font stack credit: https://github.com/mrmrs/css-system-fonts */
+/* Monospace fontstack credit: https://github.com/basscss/basic */
+body { font-family: -apple-system, "avenir next", avenir, roboto, noto, "helvetica neue", helvetica, ubuntu, "franklin gothic medium", "century gothic", sans-serif; font-size: 16px; line-height: 1.5; }
 
-pre, code, samp { font-family: "Source Code Pro", Consolas, monospace; }
+pre, code, samp { font-family: "Roboto Mono", "Source Code Pro", Menlo, Consolas, "Liberation Mono", monospace; }
 
 h1, h2, h3, h4, h5, h6 { font-family: inherit; font-weight: 500; line-height: 1.25; }
 

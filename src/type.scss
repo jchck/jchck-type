@@ -3,7 +3,7 @@ $screen-sm:		768px !default;
 $screen-md:		992px !default;
 $screen-lg: 	1200px !default;
 
-/* System fonts credit: https://github.com/mrmrs/css-system-fonts */
+/* System font stack credit: https://github.com/mrmrs/css-system-fonts */
 $font-family-base: -apple-system, 'avenir next', avenir, roboto, noto, 'helvetica neue', helvetica, ubuntu, 'franklin gothic medium', 'century gothic', sans-serif !default;
 $font-size-base: 16px !default;
 $line-height-base: 1.5 !default;
@@ -19,7 +19,8 @@ $font-size-h4: 1rem !default;
 $font-size-h5: .875rem !default;
 $font-size-h6: .75rem !default;
 
-$font-family-monospace: "Source Code Pro", Consolas, monospace !default;
+/* Monospace fontstack credit: https://github.com/basscss/basic */
+$font-family-monospace: 'Roboto Mono', 'Source Code Pro', Menlo, Consolas, 'Liberation Mono', monospace !default;
 
 $list-margin-top: 0 !default;
 $list-margin-bottom: 0 !default;

@@ -3,7 +3,8 @@ $screen-sm:		768px !default;
 $screen-md:		992px !default;
 $screen-lg: 	1200px !default;
 
-$font-family-base: "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+/* System fonts credit: https://github.com/mrmrs/css-system-fonts */
+$font-family-base: -apple-system, 'avenir next', avenir, roboto, noto, 'helvetica neue', helvetica, ubuntu, 'franklin gothic medium', 'century gothic', sans-serif !default;
 $font-size-base: 16px !default;
 $line-height-base: 1.5 !default;
 

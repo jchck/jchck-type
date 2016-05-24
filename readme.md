@@ -1,5 +1,5 @@
 # jchck type
-A base typography css module writen in sass, makes use of [Bootstrap's](http://getbootstrap.com) default variables.
+A base typography css module written in Sass. Fully compatible with Bootstrap Sass v3.
 
 ## install via bower
 ```
